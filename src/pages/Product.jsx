@@ -6,6 +6,7 @@ import { useDispatch } from "react-redux";
 import { addCart } from "../redux/action";
 
 import { Footer, Navbar } from "../components";
+import '../style.css'
 
 const Product = () => {
   const { id } = useParams();

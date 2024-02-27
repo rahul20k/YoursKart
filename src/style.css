@@ -285,3 +285,101 @@ footer{
 	font-size:1em;	
 }
 
+.FreeShippingBanner-sidebar-collapsed {
+    right: 0;
+}
+
+.FreeShippingBanner-sidebar {
+    position: fixed;
+    bottom: 130px;
+    width: 44px;
+    height: 288px;
+    background-color: #535766;
+    z-index: 6;
+    color: #fff;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+.FreeShippingBanner-arrow-collapsed {
+    border-right: 14px solid #fff;
+}
+
+.FreeShippingBanner-arrow {
+    width: 0;
+    height: 0;
+    margin: 24px 16px;
+    border-top: 12px solid transparent;
+    border-bottom: 12px solid transparent;
+}
+
+.FreeShippingBanner-sidebar-content {
+    -webkit-writing-mode: vertical-rl;
+    -ms-writing-mode: tb-rl;
+    writing-mode: vertical-rl;
+    -webkit-transform: rotate(-180deg);
+    transform: rotate(-180deg);
+    width: 36px;
+    padding: 4px;
+    height: 200px;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    -webkit-margin-after: 0;
+    margin-block-end: 0;
+    -webkit-margin-before: 0;
+    margin-block-start: 0;
+    color: #fcfcfc;
+    display: inline-block;
+}
+
+
+.banner1{
+	position:absolute;
+	margin:10px;
+	width:1242px;
+	height:471px;
+	background-color:#fff;
+	overflow:hidden;
+	-webkit-transition: all 1s ease-in-out;
+    -moz-transition: all 1s ease-in-out;
+    -ms-transition: all 1s ease-in-out;
+    transition: all 1s ease-in-out;		
+}
+
+.banner1-p {
+	position:absolute;
+	margin:90px 0px 20px 0px;
+	color:#fff;
+	font-family:Raleway;
+	font-size:.8em;
+	z-index:5;
+	left:525px;
+}.banner1-h6 {
+	left:420px;
+	top:140px;
+	text-align:center;
+	position:absolute;
+	font-family:Raleway Thin;
+	color:#fff;
+	font-size:5em;
+	line-height:80px;
+	font-weight:normal;
+	z-index:5;
+}.banner1-a {
+	position:absolute;
+	display:block;
+	top:310px;
+	padding:15px;
+	background-color:#0ab3a3;
+	color:#fff;
+	font-family:Raleway;
+	letter-spacing:2px;
+	left:41%;
+	margin:20px;	
+	z-index:5;
+}.banner1-a:hover{
+	box-shadow: 3px 3px 2px 0px #219c90 inset;	
+}
+
