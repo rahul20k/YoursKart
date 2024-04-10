@@ -16,7 +16,8 @@ https://yourskart.netlify.app/
 
 ## Screenshots
 
-![App Screenshot](./assets/YoursKart_homepage.png)
+![App Screenshot]![YoursKart_homepage](https://github.com/rahul20k/YoursKart/assets/155554339/52efeba2-923e-4a74-aa55-97f1a3ad4a70)
+
 
 
 
@@ -63,6 +64,6 @@ Just raise an issue, we will discuss it.
 
 ## Feedback
 
-If you have any feedback, please reach out to me [here](www.linkedin.com/in/rahul-kumar-7270592b7)
+If you have any feedback, please reach out to me [here] at kumar.rahul17102000@gmail.com
 
 
